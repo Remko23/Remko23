@@ -1,3 +1,9 @@
+My Family photo
+<p align="center">
+  <img src="https://i.pinimg.com/originals/76/2a/1c/762a1cac099bd7d8588fc34d61a2554c.png"/>
+</p>
+
+More about me:
 Wu: (prologue) **Long before time had a name, the First Spinjitzu Master created Ninjago using four elemental weapons. But when he passed, a dark presence sought out to collect them all: Lord Garmadon. So I, Sensei Wu, his brother, sought out to find four ninja to collect them first.**
 
 (The episode begins at the Monastery of Spinjitzu with Wu meditating in one room, and the ninja are making combat sounds in another room.)
@@ -461,5 +467,3 @@ Mezmo: You coward! We all know he's under Lloyd's spell. You're second-in-comman
 Skales: Now was not the time. I still hold the key to destroy the ninja. And when I do that, everyone will see it is I who should be in control. (Laughs wickedly.)
 
 (The episode ends with Skales using Cole to spy on the ninja.) 
-
-^That's all about me
