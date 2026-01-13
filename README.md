@@ -1,6 +1,6 @@
 <p align="center"> My Family photo </p>
 <p align="center"> 
-  <img height="230" src="https://i.pinimg.com/originals/76/2a/1c/762a1cac099bd7d8588fc34d61a2554c.png"/>
+  <img height="423" src="https://i.pinimg.com/originals/76/2a/1c/762a1cac099bd7d8588fc34d61a2554c.png"/>
 </p>
 
 _**More about me:**_
