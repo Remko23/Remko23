@@ -1,6 +1,38 @@
-<p align="center"> My Family photo </p>
-<p align="center"> 
-  <img height="423" src="https://i.pinimg.com/originals/76/2a/1c/762a1cac099bd7d8588fc34d61a2554c.png"/>
-</p>
+## Welcome on my profile! 👋🏻
 
-**Long before time had a name, the First Spinjitzu Master created Ninjago using four elemental weapons. But when he passed, a dark presence sought out to collect them all: Lord Garmadon. So I, Sensei Wu, his brother, sought out to find four ninja to collect them first.**
+### I'm Remek
+Applied Computer Science student at Łódź University of Technology (3rd year) 💻
+
+
+---
+
+### Tools 🔧
+
+| Subject           | Tool                                       |
+| :---------------- | :----------------------------------------- |
+| **Languages**     | Java, Python, Kotlin, C++, JavaScript, SQL |
+| **Data Analysis** | Tensorflow, Numpy, Pandas, Sklearn         |
+| **Other**         | Git, Docker, Latex                         |
+
+---
+
+### Hobbies 🎧
+
+- 🎹 Music Production in Fl Studio
+- ⚽️ Football
+- 🎾 Tenis
+
+---
+
+### GitHub stats 📊
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Remko23&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Remko23&layout=compact&theme=radical)
+
+---
+
+### Links 🔗
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remigiusz-tomecki-66732739a/)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]() -->
