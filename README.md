@@ -26,8 +26,10 @@ Applied Computer Science student at Łódź University of Technology (3rd year) 
 
 ### GitHub stats 📊
 ![Stats](https://github-readme-stats-jade-theta-17.vercel.app/api?username=Remko23&show_icons=true&theme=radical&count_private=true)
+
 ![Languages](https://github-readme-stats-jade-theta-17.vercel.app/api/top-langs/?username=Remko23&layout=compact&theme=radical&count_private=true)
-[![Trophies](https://github-trophy.vercel.app/?username=Remko23&theme=radical&rank=SECRET,S,A,B)
+
+![Trophies](https://github-trophy.vercel.app/?username=Remko23&theme=radical&rank=SECRET,S,A,B)
 
 ---
 
