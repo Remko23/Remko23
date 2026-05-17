@@ -1,8 +1,16 @@
 ## Welcome on my profile! 👋🏻
 
 ### I'm Remek
-Applied Computer Science student at Łódź University of Technology (3rd year) 💻
+Applied Computer Science student at Lodz University of Technology (3rd year) 💻
 
+
+---
+
+### Current & Recent Projects 📋
+
+- Engineering's Project - An AI-generated music recognition system using neural networks
+- RehabSense - A rehabilitation support system with MediaPipe posture analysis
+- JustShop - An Android mobile app for trading goods, integrated with Firebase
 
 ---
 
@@ -10,17 +18,19 @@ Applied Computer Science student at Łódź University of Technology (3rd year) 
 
 | Subject           | Tool                                       |
 | :---------------- | :----------------------------------------- |
-| **Languages**     | Java, Python, Kotlin, C++, JavaScript, SQL |
-| **Data Analysis** | Tensorflow, Numpy, Pandas, Sklearn         |
+| **Languages**     | Python, Java, Kotlin, C++, SQL, JavaScript |
+| **Data Analysis** | Tensorflow, Numpy, Pandas, Scikit-learn    |
 | **Other**         | Git, Docker, Latex                         |
 
 ---
 
 ### Hobbies 🎧
 
+- 📈 Data Science
+- 📱 Mobile Apps
 - 🎹 Music Production in Fl Studio
-- ⚽️ Football
-- 🎾 Tenis
+- ⛰️ Mountain Trips
+- ⚽️ Football and Tenis
 
 ---
 
